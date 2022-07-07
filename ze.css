@@ -1,0 +1,26 @@
+body {
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image:url(fundo.jpg);
+    color: #e0d9d9;     
+    }
+A   {
+        text-decoration: none;
+    
+    }
+a:link {
+        transition: all 0.3s ease;
+       
+        color: #e0e0e0;
+    }
+a:visited {
+        color: #e0e0e0;
+      }
+     
+a:hover {
+        color: rgb(9, 212, 195);
+      }
+img {
+    border-radius: 30%;
+}
